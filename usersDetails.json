@@ -1,0 +1,21 @@
+[
+    {
+        "name": "banner",
+        "username": "banner123",
+        "email_id": "banner@gmail.com",
+        "password": "banner123",
+        "notes": {
+            "1": "today's day was good..",
+            "2": "today my laptop submitted due to illness.."
+        }
+    },
+    {
+        "name": "rakesh",
+        "username": "rakesh123",
+        "email_id": "rakesh@gmail.com",
+        "password": "r123",
+        "notes": {
+            "1": "I am a fan of banner"
+        }
+    }
+]
